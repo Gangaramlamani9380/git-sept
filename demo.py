@@ -1,5 +1,5 @@
 
-print("This is new braanch for master")
+print("This is new branch for master 1")
 
-print("This is  new braanch for feature")
+print("This is  new branch for feature 2")
 
